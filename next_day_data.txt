@@ -1,0 +1,8 @@
+down up: 0.24008
+up up: 0.28673
+up up up: 0.15894
+up up up up: 0.09600
+up down: 0.24008
+down down: 0.23264
+down down down: 0.11846
+down down down down: 0.06294
